@@ -1,0 +1,8 @@
+if choice_red and choice_blue:
+    print("Both applied")
+elif choice_red:
+    print("Only red applied")
+elif choice_blue:
+    print("Only blue applied")
+else:
+    print("Neither applied")
